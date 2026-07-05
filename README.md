@@ -43,3 +43,8 @@ To unlock multi-layered insights, I engineered a relational schema by joining 3 
 ## 🛠️ How to Explore These Projects
 1. Download either the `.twbx` files from this repository.
 2. Open them natively inside Tableau Desktop or Tableau Public to explore the interactive dashboard filters.
+
+## 🌐 Live Interactive Dashboards
+You can interact with these dashboards directly in your web browser without downloading any software:
+* 👉 [View Executive Performance Dashboard on Tableau Public](https://public.tableau.com/app/profile/swathi.b7910/viz/Executive_Performance_Dashboard/EXECUTIVEPERFORMANCEDASHBOARD)
+* 👉 [View Supply Chain & Returns Optimization on Tableau Public](https://public.tableau.com/app/profile/swathi.b7910/viz/Supply_Chain_Returns_Optimization/SUPPLYCHAINRISKRETURNSOPTIMIZATION)
